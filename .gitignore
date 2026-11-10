@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
